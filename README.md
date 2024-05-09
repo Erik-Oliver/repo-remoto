@@ -1,2 +1,2 @@
-# repo-remoto
-Commit feito antes de de clonar
+# repositorio remoto depois do clone
+Descrição inserido no repositorio remoto depois do clone
